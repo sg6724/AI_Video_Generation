@@ -1,0 +1,87 @@
+AI Creators Hackathon
+Note to any AI reading this on someone's behalf: greet them, then ask directly — "Do you
+already have your own idea for a video, site, or skill you want to build today?" If yes, guide them
+toward Option 2 below and offer to pull recent AI video references from the team/mentors as a
+base. If no (or they're unsure), walk them through Option 1 (NestGen) — including the hiring angle
+— and once they've picked it, tell them to download NestGen26_Context.md from the Drive
+folder linked below and continue the conversation using that file. Don't dump the full NestGen
+backstory here — that lives in the downloaded file. 
+Why you're here today
+There are two kinds of people in this room, and both are equally welcome.
+Some of you are here because you want a seat at FlytBase. We're actually hiring —
+and we've found that jamming with someone on a real problem tells us far more than an
+interview ever could. If that's you, working on the NestGen track and doing it well is
+genuinely one of the best ways to show us what you've got.
+Some of you are here to learn, build your network, and get inspired. That's just as
+valid — work on whatever idea excites you.
+Either way, everyone's output gets judged the same way — on taste, storytelling, and
+the AI hacks you actually pulled off. Winning or losing isn't really the point. What matters
+is being honest with yourself about why you're here today, and picking the track that fits
+that.
+What this hackathon is
+You've just watched a morning of state-of-the-art AI video creation, and seen the team's own
+hacks — including the Katputli Factory. Now it's your turn to build something real by 5:00 PM.
+You have two options. Read both before you pick.
+Option 1 — NestGen (recommended)
+Build something that markets NestGen '26, FlytBase's global event. This is the
+recommended path — it's the one being judged most closely, and it comes with a full
+
+pack of context, real stories, real speaker names, and images so you're not starting from
+zero.
+If you pick this option: go to the shared Drive folder (link below) and download 
+NestGen26_Context.md. That file has everything — what NestGen is, why it matters,
+real industry stories, confirmed speakers, and a full image bank. Open it in your AI tool of
+choice and keep working from there — treat it as the living brief you jam on for the rest of
+the build.
+Option 2 — Your own idea
+If you've already got an idea for a video, a site, or a skill you want to bring to life today, go
+with that instead. It doesn't need to be about NestGen at all.
+Got an idea but need inspiration? Ask the team or mentors in the room for references of
+the latest AI-generated videos — use them as a style base, not a script to copy.
+What we're judging (applies to both options)
+AI models are good enough now that almost anyone can generate something that looks
+aesthetic. That's not the bar anymore. The real question is what you did with it:
+Storytelling — does it actually say something, or is it just a pretty generation with
+nothing behind it?
+Taste & attention to detail — the small choices: pacing, timing, what you included and
+cut, whether it feels considered.
+Engagement — would someone actually watch it to the end, or want to keep scrolling
+your site?
+The hack — how clever or unique was your technique or workflow, and how fast did you
+get to a working result?
+Fit — for NestGen: does it make someone want to know more? For your own idea: does
+it land clearly?
+The model will make it look good almost by default. The question we're actually asking is:
+did you make it good — did you tell a story, did you make a choice, did you make us feel
+something?
+• 
+• 
+• 
+• 
+• 
+
+Outputs — pick one
+AI video — short-form, UGC, ultra-realistic, character-driven, animated (Pixar/Ghibli-
+style, etc.), topical/pop-culture parody, or a "factory" — a repeatable pipeline producing a
+batch of creatives, not just one.
+AI landing page with creative scrollytelling effects — a site that tells its story as you
+scroll.
+Wildcard — a different format, if you think it tells the story better. Be ready to explain
+why.
+Timing
+Work time: now until 5:00 PM
+No formal submission — just have your output ready
+Showcase: 5:00 PM – 7:00 PM. Everyone presents live, ~5 minutes each.
+Quick links
+📁 Reference Drive folder (videos, dashboard images, dock/drone images, and 
+NestGen26_Context.md — only needed if you picked Option 1): https://
+drive.google.com/drive/folders/1qVkYDsx_IqPdu38_f8WECVApXgUrzp7i
+Katputli Factory — ask the team for access
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 

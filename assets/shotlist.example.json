@@ -1,0 +1,63 @@
+{
+  "project": "nestgen-heygen-imagine-example",
+  "target_duration_sec": 20,
+  "visual_bible_ref": "visual-bible.md",
+  "shots": [
+    {
+      "id": "shot_001",
+      "sequence": 1,
+      "narration_line": "Most drone demos look the same.",
+      "visual_prompt": "A weathered original straw-hat pirate host stands on the deck of a cinematic ship that has been retrofitted into a high-tech command vessel, blue holographic drone map glowing over the ocean, NestGen '26 signal motif in the distance",
+      "camera": "slow push in from the bow, golden-hour sea light, stable cinematic framing",
+      "duration_sec": 6,
+      "backend": "imagine-art",
+      "mode": "text_to_video",
+      "model": "veo-3.1-fast",
+      "reference_image": null,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "transition_in": "cut",
+      "status": "pending",
+      "job_id": null,
+      "output_path": null,
+      "retries": 0
+    },
+    {
+      "id": "shot_002",
+      "sequence": 2,
+      "narration_line": "But the hard part is getting physical AI to survive the real world.",
+      "visual_prompt": "Presenter avatar delivering the line with confident direct eye contact, dark teal virtual command-room background, subtle drone telemetry lines behind the speaker",
+      "camera": "static medium close-up, clean studio lighting",
+      "duration_sec": 5,
+      "backend": "heygen",
+      "mode": "avatar_video",
+      "model": "AVATAR_ID",
+      "voice_id": "VOICE_ID",
+      "background_color": "#071013",
+      "transition_in": "crossfade",
+      "status": "pending",
+      "job_id": null,
+      "output_path": null,
+      "retries": 0
+    },
+    {
+      "id": "shot_003",
+      "sequence": 3,
+      "narration_line": "NestGen '26 is where operators compare the playbooks that usually stay inside the boardroom.",
+      "visual_prompt": "Cinematic aerial reveal of mines, ports, solar farms, rail corridors, public safety command centers, and drone docks connected by thin blue route lines, serious enterprise documentary tone",
+      "camera": "smooth drone-style reveal into a top-down operational map",
+      "duration_sec": 8,
+      "backend": "imagine-art",
+      "mode": "drone_video",
+      "model": "veo-3.1",
+      "reference_image": null,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "transition_in": "cut",
+      "status": "pending",
+      "job_id": null,
+      "output_path": null,
+      "retries": 0
+    }
+  ]
+}
